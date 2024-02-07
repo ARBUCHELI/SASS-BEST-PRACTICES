@@ -9,3 +9,14 @@ From file organization, to understanding when is best to include a mixin or exte
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Sass Structure
+----------------
+We’ll start with best practices for organizing files. As your web app or web page grows in complexity, so will the styles that go along with it. It’s best to keep code organized.
+
+* Instructions
+--------------
+Here we have an example of a well-organized Sass file structure. Notice how the file structure makes it easy to think of the functionality of each component, facilitating the action of 
+finding and updating files.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
