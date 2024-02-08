@@ -24,11 +24,13 @@ h1 {
     left: 25%;
     line-height: 200px;
     @include dimensions(50%, 200px);
+    @extend .absolute;
 
     span {
       @include center;
       width: 40%;
       left: 30%;
+      @extend .absolute;
     }
   }
 }
@@ -42,4 +44,8 @@ h1 {
     border: $border;
     @include dimensions(300px, 300px);
   }
+}
+
+.absolute {
+  position: absolute;
 }

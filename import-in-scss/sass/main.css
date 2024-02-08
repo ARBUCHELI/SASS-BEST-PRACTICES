@@ -39,4 +39,8 @@ h1 {
   height: 300px;
 }
 
+.absolute, .banner .slogan, .banner .slogan span {
+  position: absolute;
+}
+
 /*# sourceMappingURL=main.css.map */
