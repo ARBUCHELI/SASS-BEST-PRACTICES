@@ -1,4 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
+.banner .slogan span, .banner .slogan {
+  position: absolute;
+}
+
 h1 {
   font-family: Roboto, sans-serif;
   text-align: center;
@@ -39,7 +43,7 @@ h1 {
   height: 300px;
 }
 
-.absolute, .banner .slogan, .banner .slogan span {
+.absolute {
   position: absolute;
 }
 
